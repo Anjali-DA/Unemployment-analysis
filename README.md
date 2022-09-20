@@ -1,10 +1,10 @@
-# Tableau-Unemployment-analysis
-## Introduction
+# 🖥️Tableau-Unemployment-analysis
+## 💡Introduction
 
 Unemployment is a situation when a person actively searches for a job and is unable to find work. Unemployment indicates the health of the economy.
 The unemployment rate is the most frequent measure of unemployment. The unemployment rate is the number of people unemployed divided by the working population or people working under labor.
 
-## Why does unemployment occur?
+## 💡Why does unemployment occur?
 
 - Large population.
 
